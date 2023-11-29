@@ -1,4 +1,5 @@
 from datetime import datetime
+
 class Bank:
     users = {}
     total_users = 0
